@@ -1,5 +1,8 @@
 # Supersore Sales Dashboard
 
+## Problem Statement:
+To analyze the superstore's sales performance across different dimensions such as sales, profit, segment, sub-category, category, payment mode, and geographical distribution to identify trends, patterns, and areas of improvement to optimize business operations and increase profitability.
+
 ## Snapshot
 ![Screenshot 2024-01-07 203438](https://github.com/missrakhi/Superstore-Sales-Dashboard/assets/154977141/10474dbd-b163-4a9b-a25a-70d642fc4692)
 
