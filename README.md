@@ -21,7 +21,7 @@ To analyze the superstore's sales performance across different dimensions such a
 •	The Average Delivery is of 4 day
 
 ### Regional Sales Breakdown
-•	Sales are geographically segmented, with the West region leading at 522K (33% of total sales).
+Sales are geographically segmented, with the West region leading at 522K (33% of total sales).
  The East follows with 450k(29%) and central with 341K(21%) and and lowest sales of South region with 252K(16%)
 
 ### Sales by Sub-Category
