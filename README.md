@@ -30,12 +30,6 @@ The top sub-categories contributing to sales are Phones (197K),Chairs(182K), and
 ### Sales by Category
 Office Supplies are the highest-grossing category with 644K in sales. Technology and Furniture categories follow with 471K and 452K in sales, respectively.
 
-### Top 5 State by Sales 
-•	California has the highest total sales among the listed states, with sales reaching 335K (likely indicating $335,000).
-•	New York follows as the second highest, with total sales of 187K.
-•	Texas is in third place with sales of 116K.
-•	Washington is fourth, with sales of 93K.
-•	Pennsylvania has the fifth highest sales, with 82K.
 
 
 ### Payment Mode Preferences
@@ -58,13 +52,6 @@ Office Supplies are the highest-grossing category with 644K in sales. Technology
 •	Conversely, during 2019, when the sales were lower in February, October, and December, the profit appears to be relatively higher compared to some other months.
 
 
-### Sales Forecasting of 15 days
-•	The forecast begins with sales around the 6K mark.
-•	There is a peak in sales forecasted around mid-December, reaching approximately 10.6K.
-•	After this peak, the forecasted sales show a downward trend.
-•	By the beginning of January, the sales are expected to decline to around 3K.
-•	The confidence interval widens as we move further out from the start of the forecast period, which indicates increasing uncertainty in the sales predictions as time progresses.
-•	The forecasted sales values towards the end of the 15-day period show significant variability, with the confidence interval suggesting that actual sales could vary quite considerably.
 
 
 
