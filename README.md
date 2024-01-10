@@ -1,4 +1,4 @@
-# Supersore Sales Dashboard
+# Superstore Sales Dashboard
 
 ## Problem Statement:
 To analyze the superstore's sales performance across different dimensions such as sales, profit, segment, sub-category, category, payment mode, and geographical distribution to identify trends, patterns, and areas of improvement to optimize business operations and increase profitability. To contribute to the success of a business by utilizing data analysis techniques, specifically focusing on time series analysis, to provide valuable insights and accurate sales forecasting
